@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BobbySU
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Programist
+- 💞️ I’m looking to collaborate on Programers
 - 📫 How to reach me Online
 
 <!---
